@@ -120,7 +120,6 @@ Take special note of the following:
   In particular, there are references to consensus-related topics, such as the [block finalization and forks](https://docs.substrate.io/fundamentals/consensus/#finalization-and-forks) and other [consensus mechanisms](https://docs.substrate.io/fundamentals/consensus/#default-consensus-models) such as Aura for block authoring and GRANDPA for finality.
 
 
-
 ### Runtime
 
 In Substrate, the terms "runtime" and "state transition function" are analogous.
